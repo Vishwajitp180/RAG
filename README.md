@@ -1,2 +1,2 @@
 # RAG
-This is poer bi end to end projects
+This is power bi end to end projects
